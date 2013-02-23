@@ -1,8 +1,0 @@
-{ 
-  "dataFile": "hamburg.geojson",
-  "dataUrl": "http://www.openstreetmap.org",
-  "dataTitle": "OpenStreetMap",
-  "countryName": "Germany",
-  "author": "PatrickStotz",
-  "googleMapsQuery": "Hamburg, Germany"
-}
